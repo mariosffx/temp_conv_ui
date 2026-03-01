@@ -1,6 +1,6 @@
 {
   "name": "temp_conv_ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Flutter web application for a temperature conversion tool.",
   "main": "server.mjs",
   "type": "module",

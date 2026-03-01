@@ -10,7 +10,7 @@ PATH="$PATH:/root/.toolkit/tools/flutter/bin"
 
 echo "[post-deploy] Building project..."
 rm -rf build
-flutter build web
+flutter build web --release
 npm install 
 
 # Start Hosting
